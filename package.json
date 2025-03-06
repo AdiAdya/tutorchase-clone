@@ -1,0 +1,29 @@
+{
+  "name": "tutorchase-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdiAdya/tutorchase-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AdiAdya/tutorchase-clone/issues"
+  },
+  "homepage": "https://github.com/AdiAdya/tutorchase-clone#readme",
+  "dependencies": {
+    "@nestjs/config": "^4.0.1",
+    "@nestjs/typeorm": "^11.0.0",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.1",
+    "pg": "^8.13.3",
+    "typeorm": "^0.3.21"
+  }
+}
