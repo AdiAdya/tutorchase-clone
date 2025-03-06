@@ -1,5 +1,5 @@
 const Testimonials: React.FC = () => (
-    <section className="py-16 bg-blue-100">
+    <section className="py-16 bg-blue-100 text-gray-600">
       <div className="max-w-7xl mx-auto px-4 text-center">
         <h3 className="text-3xl font-semibold mb-8">What Our Students Say</h3>
         <div className="flex flex-wrap justify-center gap-8">
